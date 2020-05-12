@@ -1,0 +1,13 @@
+{
+  "name": "shaderland",
+  "version": "1.0.0",
+  "description": "A shader repo where I learn writing shaders with GLSL",
+  "main": "index.js",
+  "repository": "git@github.com:Utopiad/shaderland.git",
+  "author": "Utopiad <jeremy.philippe@hetic.net>",
+  "engines": {
+    "node": "8.12.0"  
+  },
+  "license": "MIT",
+  "private": false
+}
